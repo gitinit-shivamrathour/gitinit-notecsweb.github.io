@@ -1,4 +1,4 @@
-# Front-Based CS Library site :partying_face:
+# Frontend-Based CS Library site :partying_face:
 
 Complete Responsive Cse Library Site using HTML5, CSS3 & JS
 
